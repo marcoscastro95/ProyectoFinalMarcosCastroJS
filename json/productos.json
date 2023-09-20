@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "tipo": "Desmalezadora",
+    "nombre": "Desmalezadora Shimaha 43cc",
+    "precio": 5000,
+    "foto": "./media/desmalezadora.jpg"
+}, {
+    "id": 2,
+    "tipo": "Amoladora",
+    "nombre": "Amoladora 4.5 Pretul",
+    "precio": 1800,
+    "foto": "./media/amol.jpg"
+}, {
+    "id": 3,
+    "tipo": "Amoladora",
+    "nombre": "Amoladora 7 Pretul",
+    "precio": 3100,
+    "foto": "./media/amoladoras.jpg"
+}, {
+    "id": 4,
+    "tipo": "Taladro",
+    "nombre": "Taladro Pretul",
+    "precio": 2800,
+    "foto": "./media/taladro.jpg"
+}, {
+    "id": 5,
+    "tipo": "Pintura",
+    "nombre": "Protector Madera Belco 900cc",
+    "precio": 830,
+    "foto": "./media/protector.jpg"
+}, {
+    "id": 6,
+    "tipo": "Pintura",
+    "nombre": "Pintura Aerosol Belco 400ml",
+    "precio": 250,
+    "foto": "./media/aerosol.jpg"
+}, {
+    "id": 7,
+    "tipo": "Malla",
+    "nombre": "Malla de sombra 80% x mt",
+    "precio": 165,
+    "foto": "./media/malla.jpg"
+}, {
+    "id": 8,
+    "tipo": "Taladro",
+    "nombre": "Taladro Percutor Total",
+    "precio": 5600,
+    "foto": "./media/taladroperc.jpg"
+}, {
+    "id": 9,
+    "tipo": "Pistola",
+    "nombre": "Pistola Calor Total",
+    "precio": 2700,
+    "foto": "./media/pistolaca.jpg"
+}, {
+    "id": 10,
+    "tipo": "Cargador",
+    "nombre": "Cargador Bateria 12/24v Total",
+    "precio": 4800,
+    "foto": "./media/cargador.jpg"
+}, {
+    "id": 11,
+    "tipo": "Amoladora",
+    "nombre": "Amoladora 7 Total",
+    "precio": 4500,
+    "foto": "./media/amoladoratot.jpg"
+}, {
+    "id": 12,
+    "tipo": "Cepillo",
+    "nombre": "Cepillo Electrico Total",
+    "precio": 3300,
+    "foto": "./media/cepilloelec.jpg"
+}, {
+    "id": 13,
+    "tipo": "Soldadora",
+    "nombre": "Soldadora Inverter Total",
+    "precio": 4000,
+    "foto": "./media/soldadorai.jpg"
+}, {
+    "id": 14,
+    "tipo": "Motosierra",
+    "nombre": "Motosierra Shimaha 58cc",
+    "precio": 5400,
+    "foto": "./media/motosierra.jpg"
+}, {
+    "id": 15,
+    "tipo": "Bateria",
+    "nombre": "Bateria Moura 90/100A",
+    "precio": 5800,
+    "foto": "./media/bateriamou.jpg"
+}, {
+    "id": 16,
+    "tipo": "Pintura",
+    "nombre": "Pintura Blanca 3B 20lts",
+    "precio": 2290,
+    "foto": "./media/pintura3b.jpg"
+}, {
+    "id": 17,
+    "tipo": "Taladro",
+    "nombre": "Talador Total",
+    "precio": 3800,
+    "foto": "./media/taladrototal.jpg"
+}, {
+    "id": 18,
+    "tipo": "Pintura",
+    "nombre": "Pintura Mayor 4lts",
+    "precio": 850,
+    "foto": "./media/pinturas4.jpg"
+}]
